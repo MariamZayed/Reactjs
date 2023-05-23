@@ -1,0 +1,5 @@
+.main{
+    background-color: rgb(70, 66, 66);
+    color: white; /* Set text color to make it visible on dark background */
+    padding: 20px;
+}

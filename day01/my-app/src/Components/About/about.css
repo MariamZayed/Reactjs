@@ -1,0 +1,13 @@
+.about{
+    position: relative;
+}
+
+.shadow-text {
+    font-size: 48px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.regular-text {
+    padding-top: 80px;
+    left: 0;
+}
