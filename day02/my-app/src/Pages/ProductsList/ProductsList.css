@@ -1,0 +1,13 @@
+.main {
+    padding-bottom: 50px; 
+}
+.product-img{
+    border-radius: 50%;
+    width: 200px; /* Adjust the desired width */
+    height: 300px;
+}
+
+.custom-card {
+    height: 100%; /* Set the desired height for the cards */
+    /* Add any other custom styles you want for the cards */
+}
